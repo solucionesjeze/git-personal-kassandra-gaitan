@@ -15,7 +15,7 @@ He creado un repositorio público llamado **git personal kassandra gaitan** con 
 ## Estructura inicial
 He creado la estructura inicial del proyecto.
 
-![Estructura inicial](/img/EstructuralInicial_personal.png)
+![Estructura inicial](/img/EstructuraInicial_personal.png)
 
 ---
 
